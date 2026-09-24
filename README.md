@@ -132,8 +132,7 @@ En este proyecto nuevamente use Claude porque como mencione es el mejor por el m
 - Limpiar el formato Markdown (asteriscos) que devolvia el modelo, tanto en
   el system prompt como con una función de respaldo (`stripMarkdown`) para algo mas "lindo" de ver.
 
-Todo el codigo fue revisado y probado en el despliegue de produccion antes
-de la entrega.
+Todo el codigo fue testeado antes de hacer la entrega.
 
 ## Notas técnicas
 
